@@ -1,6 +1,6 @@
 # Stevens-System
 
-This organization (a repo of repos) is for the two most badass courses at Stevens Institute of Technology:
+This organization (a repo of repos) is for the **two most badass courses** at Stevens Institute of Technology:
 - **(CS-382)** Computer Architecture & Organization;
 - **(CS-392)** Systems Programming.
 
