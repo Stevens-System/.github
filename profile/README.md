@@ -7,3 +7,5 @@ This organization (a repo of repos) is for the two most badass courses at Steven
 It's possible that other courses will be added here as well (_e.g.,_ CS-492 Operating Systems), but no courses can compete with my bad boys 382+392!
 
 Let's goooooo!
+
+![alt text](https://github.com/Stevens-System/.github/blob/main/profile/11.png)
