@@ -8,4 +8,4 @@ It's possible that other courses will be added here as well (_e.g.,_ CS-492 Oper
 
 Let's goooooo!
 
-![alt text](https://github.com/Stevens-System/.github/blob/main/profile/11.png)
+![alt text](https://github.com/Stevens-System/.github/blob/main/profile/6185616.png)
